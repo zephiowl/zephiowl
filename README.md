@@ -22,7 +22,7 @@ Currently self teaching with online resources 👨‍🎓
 
 Technologies that I've been learning and picked up along my programming journey.
 
-#### 🌐  Languages : <br />
+#### 🌐  Languages: <br />
 
 <!--- All badges gotten from https://developstorm.github.io/simple-badges/ --->
 ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=dbba9e&style=for-the-badge&labelColor=3c2c29&color=5d3e39)
